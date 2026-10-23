@@ -14,6 +14,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=4" width="100%" alt="divider" />
 <p align="center">
-  <p align="center">
   <img src="assets/bio.svg" width="700" alt="Front-end developer focused on transforming design concepts into modern, interactive, and high-performance web applications. Dedicated to building fluid interfaces that prioritize the user experience and product scalability." />
 </p>
