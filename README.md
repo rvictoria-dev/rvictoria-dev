@@ -9,11 +9,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8f9295&height=4" width="100%" alt="divider" />
 
 <h2 align="center">
-  <img src="assets/eye.svg" width="32" align="absmiddle" alt="" />
   About me
 </h2>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=4" width="100%" alt="divider" />
 <p align="center">
-  <small>Front-end developer focused on transforming design concepts into modern, interactive, and high-performance web applications. Dedicated to building fluid interfaces that prioritize the user experience and product scalability.</small>
+  <p align="center">
+  <img src="assets/bio.svg" width="700" alt="Front-end developer focused on transforming design concepts into modern, interactive, and high-performance web applications. Dedicated to building fluid interfaces that prioritize the user experience and product scalability." />
 </p>
