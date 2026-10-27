@@ -76,7 +76,4 @@
   <a href="https://wa.me/5581996064836">
     <img src="https://img.shields.io/badge/WhatsApp-4B5364?style=for-the-badge&logo=whatsapp&logoColor=0d1117" alt="WhatsApp" />
   </a>
-  <a href="https://pin.it/UAyIPiVHE">
-    <img src="https://img.shields.io/badge/Pinterest-4B5364?style=for-the-badge&logo=pinterest&logoColor=0d1117" alt="Pinterest" />
-  </a>
 </p>
