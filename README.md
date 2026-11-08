@@ -55,7 +55,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=4" width="100%" alt="divider" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rvictoria-dev&background=1f2029&border=3c404f&stroke=3c404f&ring=315381&fire=315381&currStreakNum=E6EAF0&currStreakLabel=315381&sideNums=7b899d&sideLabels=7b899d&dates=586071&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=rvictoria-dev&background=1f2029&border=3c404f&stroke=3c404f&ring=315381&fire=315381&currStreakNum=E6EAF0&currStreakLabel=315381&sideNums=7b899d&sideLabels=7b899d&dates=586071&hide_border=true&v=2" alt="GitHub Streak Stats" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8f9295&height=4" width="100%" alt="divider" />
